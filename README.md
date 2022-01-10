@@ -1,0 +1,1 @@
+# half-pyramid-of-stars-pattern
